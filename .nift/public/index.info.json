@@ -1,6 +1,6 @@
 {
   "name": "/",
-  "title": "index",
+  "title": "Cloudflare Docs: Nift vs Astro Benchmark",
   "template": "templates/template.html",
   "content": "content/index.html",
   "output": "public/index.html",
@@ -18,5 +18,8 @@
     "templates/head.html",
     "templates/template.html"
   ],
-  "reqs": []
+  "reqs": [
+    "public/assets/css/style.css",
+    "public/assets/js/script.js"
+  ]
 }
